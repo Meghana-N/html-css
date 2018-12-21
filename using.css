@@ -1,0 +1,14 @@
+a {
+    color: red;
+    text-decorator: none;
+}
+
+a:hover {
+    color: black;
+    text-decorator: none;
+    font-size: 30px;
+}
+
+#gr {
+    color: green;
+}
