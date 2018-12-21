@@ -1,2 +1,3 @@
-#demo
-This is a html demo
+# HTML DEMO
+This is a html demo site
+## Steps to run
